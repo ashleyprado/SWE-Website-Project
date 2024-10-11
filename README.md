@@ -18,10 +18,6 @@ This repository showcases the website I developed for the Society of Women Engin
 ## Live Website
 Explore the live site here: [SWE Website](https://sites.swe.org/florida-international-university/)
 
-## 📸 Screenshots
-![Homepage of SWE Website](link-to-screenshot-of-homepage)
-![Events Page](link-to-screenshot-of-events-page)
-
 ## Key Features
 - **📆 Real-Time Event Updates:** A dynamic calendar that keeps the SWE community up-to-date with the latest events and opportunities.
 - **🎨 Custom Design Elements:** Personalized website layout and style using HTML and CSS to align with SWE's brand and values.
